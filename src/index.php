@@ -12,6 +12,9 @@
 
 
 echo "merhaba dünya";
+if (true) {
+    echo "merhaba dünya";
+}
 
 ?>
 </body>
