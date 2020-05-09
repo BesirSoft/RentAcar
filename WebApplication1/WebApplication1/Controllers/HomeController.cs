@@ -20,6 +20,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {   int a=20;
+          int a=20;
             return View(a);
         }
 
